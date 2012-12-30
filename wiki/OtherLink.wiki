@@ -8,6 +8,8 @@
 
 = Полезные статьи =
 
+[http://1c-dn.com/library/data_structure_in_1c_enterprise_8/?SECTION_CODE=data_structure_in_1c_enterprise_8&print=Y Структура таблиц данных]
+
 [http://kb.mista.ru/article.php?id=389 Ошибка формата потока]
 
 [http://www.gilev.ru/1c/81/restore/stream.html Борьба с сообщением "Ошибка формата потока" в 1С:Предприятие 8.1]
