@@ -6,6 +6,8 @@
 
 [http://infostart.ru/public/143704/ Загрузка документов и справочников из файлов XML, созданных обработкой Tool_1CD]
 
+[http://infostart.ru/public/166557/ Компонента 1CDLib для прямого чтения/записи данных из файлов баз данных .1CD]
+
 = Полезные статьи =
 
 [http://1c-dn.com/library/data_structure_in_1c_enterprise_8/?SECTION_CODE=data_structure_in_1c_enterprise_8&print=Y Структура таблиц данных]
@@ -13,3 +15,7 @@
 [http://kb.mista.ru/article.php?id=389 Ошибка формата потока]
 
 [http://www.gilev.ru/1c/81/restore/stream.html Борьба с сообщением "Ошибка формата потока" в 1С:Предприятие 8.1]
+
+[http://infostart.ru/public/174806/ Восстановление работоспособности файловой базы. 0. Введение]
+
+[http://infostart.ru/public/175344/ Восстановление работоспособности файловой базы. 1. Обследование]
